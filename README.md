@@ -1,5 +1,7 @@
 データからyoutubeの字幕やテロップを作るプログラムのリポジトリです。
 
+文字起こしには、Fater whisperを使用しています。
+https://github.com/SYSTRAN/faster-whisper
 
 ## 使い方
 python-dotenvをインストール
