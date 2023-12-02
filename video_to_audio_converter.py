@@ -9,7 +9,7 @@ def extract_audio(video_file_path, audio_file_path):
 
 # 使用例
 
-video_file_path = '/Users/itokosuke/Documents/Nerd Bench/vol2_iphone15/iphone.mp4'  # ここに動画ファイルのパスを入力
-audio_file_path = '/Users/itokosuke/Documents/Nerd Bench/vol2_iphone15/output_audio.mp3'        # ここに抽出した音声を保存するファイル名を入力
+video_file_path = ''  # ここに動画ファイルのパスを入力
+audio_file_path = ''  # ここに抽出した音声を保存するファイル名のパス名
 
 extract_audio(video_file_path, audio_file_path)
